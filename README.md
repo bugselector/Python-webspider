@@ -13,6 +13,7 @@
 一、分析
 
 （1）打开页面，按“F12”，再对网页进行刷新。便能够发现许多加载出的页面，选择JS（动态成的页面），进行查找。有了上一次的经验，找不了多久，应该就会发现。
+
 ![Image text](https://raw.githubusercontent.com/hellohejin/crawl-comments/b3606eca0d4af774dac4755b832e64fff296a621/080814an8nd4jd25j8n838.png)
 
 我们再点开序号为0的那个：
