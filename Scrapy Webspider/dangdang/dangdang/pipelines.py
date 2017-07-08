@@ -15,10 +15,11 @@ class DangdangPipeline(object):
             link = item["link"][i]
             comment = item["comment"][i]
             #print(title+":"+link+":"+comment)
-            sql = "insert into goods(title,link,comment) values('"+title+"','"+link+"','"+comment+"')"
+            sql = "insert into user(name) values('"+rst[each]+"')"
             #print(sql)
             try:
                 conn.query(sql)
+                conn.commit()
             except Exception as err:
                 print(err)
         conn.close()
