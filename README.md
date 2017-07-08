@@ -26,7 +26,7 @@ https://coral.qq.com/article/1966037100/comment?commentid=0&reqnum=10&tag=&callb
 精简之后：
 https://coral.qq.com/article/1966037100/comment?commentid=0&reqnum=10&callback=jQuery
 
-是不是有看到“reqnum”了，对的，就是代表显示的评论总数。当我们修改它时，会返回不同的评论。（具体请看笔记：http://bbs.fishc.com/thread-89708-1-1.html）。
+是不是有看到“reqnum”了，对的，就是代表显示的评论总数。当我们修改它时，会返回不同的评论。（具体请看笔记：http://bbs.fishc.com/thread-89756-1-1.html）。
 但是，最终发现，“reqnum”最多只能返回50条，在增大也是返回50条。那么多评论，显然不可能只有50条。于是，点击“加载更多”观察情况。
 
 （3）最终我们发现：
