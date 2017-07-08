@@ -65,4 +65,5 @@ pat1 = '"content":"(.*?)",'
 提取id号的正则：
 pat2 = '{"id":"(.*?)",'
 
-## 完整代码:就在这里（Python-webspider/楚乔传所有最新短评爬取并写入数据库.py）
+## 完整代码:就在这里
+https://github.com/hellohejin/Python-webspider/blob/master/%E6%A5%9A%E4%B9%94%E4%BC%A0%E6%89%80%E6%9C%89%E6%9C%80%E6%96%B0%E7%9F%AD%E8%AF%84%E7%88%AC%E5%8F%96%E5%B9%B6%E5%86%99%E5%85%A5%E6%95%B0%E6%8D%AE%E5%BA%93.py
